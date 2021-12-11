@@ -2,7 +2,7 @@
 title: [$7,500] Remote Code Execution
 date: 2021/3/19
 description: Bug Bounty write-up
-tag: web-development
+tag: web-security
 author: You
 ---
 
